@@ -1,7 +1,7 @@
 <h1 align="center">Make 11 Card Game</h1>
 
- <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <div align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </div>
 
 #
@@ -30,58 +30,31 @@ This is a Make 11 card game that I built as a part of my modules in Ulster Unive
 
 This demo gives an overview of the project, showcasing all the functionality including  showing file path for video downloaded.
 
-https://github.com/khatri-kamal/youtube-downloader/assets/137229125/2ecfbc23-3de1-4aab-9fe3-dafade43c5f5
+
+https://github.com/khatri-kamal/CardGame/assets/137229125/4c163e9b-a302-421b-8724-220540ccaad7
+
+
 
 ## 🛠️ Installation [🔝](#-table-of-contents)
 
-Before starting, please ensure that Python has been installed successfully following the link.
+Before starting, please ensure that Java and JVM has been installed successfully following the link. The link is for IntelliJ IDE but you can use VS Code as well.
 
-- [Python Installation](https://www.python.org/downloads/)
+- [IntelliJ  Installation](https://www.jetbrains.com/idea/download/?fromIDE=&section=windows)
 
 
 Clone the project
 
 ```bash
-  git clone https://github.com/khatri-kamal/youtube-downloader
+  git clone https://github.com/khatri-kamal/CardGame
 ```
 
 Go to the project directory
 
 ```bash
-  cd youtube-downloader
+  cd CardGame
 ```
-
-Install dependencies
-
-```bash
-  pip install pytorch
-```
-
-Change Search words
-
-```bash
-  projects = ["project", "Key_Word"]
-```
-
-Change all file path
-
-```bash
-  yourFilePath = r"Your_File_path_goes_here"
-```
-
-Download video Example
-
-```bash
-  python3 youtube-downloader "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-```
-
 
 ## 🤜🤛 Acknowledgements & Resources [🔝](#-table-of-contents)
-This project was created by following a tutorial and made changes to add the file handling automatically.
-
-- [Original YouTube Tutorial](https://www.youtube.com/watch?v=vEQ8CXFWLZU)
-- [YouTuber's Link](https://www.youtube.com/@InternetMadeCoder)
-
 This README was created using a guides and template. For more information, please refer to the following links:
 
 - [Readme Template](https://github.com/okotaku/template?tab=readme-ov-file)
