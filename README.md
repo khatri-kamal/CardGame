@@ -1,4 +1,4 @@
-<h1 align="center">Make 11 Card Game</h1>
+<h1 align="center">Card Game</h1>
 
   <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -9,30 +9,28 @@
 ## 📄 Table of Contents
 
   - [📖 Introduction 🔝](#-introduction-)
-  - [👨‍💻 Tech Stack & Features 🔝](#-tech-stack--features-)
+  - [👨‍💻 Game Rules 🔝](#-game-rules-)
   - [🎞 Project Demo 🔝](#-project-demo-)
   - [🛠️ Installation 🔝](#️-installation-)
   - [🤜🤛 Acknowledgements & Resources 🔝](#-acknowledgements--resources-)
 
 ## 📖 Introduction [🔝](#-table-of-contents)
 
-This is a Make 11 card game that I built as a part of my modules in Ulster University. 
+This is a card game built using Java as a part of University Course. It a simple game where the objective is to make 11 or match suit to continue playing. Highscore are updated at the end of the game and player will be able to see what cards they played each round after they lose. 
  
-## 👨‍💻 Tech Stack & Features [🔝](#-table-of-contents)
+## 👨‍💻 Game Rules [🔝](#-table-of-contents)
 
-- Python
-- API - Pytorch
-- View YouTube videos details
-- Download YouTube Videos
-- Store them in file Automatically
+- Make 11 - 1 point
+- Match Suit - 0 Point 
+- Make 11 and Match Suit - 2 points
+- Make 11 & have face card in hand - Options to swap Face Card with one from the deck. [Ace is not a face card]
+- New Highscore - Player name and score are stored
 
 ## 🎞 Project Demo [🔝](#-table-of-contents)
 
-This demo gives an overview of the project, showcasing all the functionality including  showing file path for video downloaded.
+This demo gives an example of how the game is played and score point alongside saving highscore in txt file. This highscore will then be update for a new game.
 
-
-https://github.com/khatri-kamal/CardGame/assets/137229125/4c163e9b-a302-421b-8724-220540ccaad7
-
+<video controls src="Card Game Demo(1).mp4" title="Title"></video>
 
 
 ## 🛠️ Installation [🔝](#-table-of-contents)
