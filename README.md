@@ -30,15 +30,13 @@ This is a card game built using Java as a part of University Course. It a simple
 
 This demo gives an example of how the game is played and score point alongside saving highscore in txt file. This highscore will then be update for a new game.
 
-<video controls src="Card Game Demo(1).mp4" title="Title"></video>
-
+https://github.com/khatri-kamal/CardGame/assets/137229125/6ad6c952-e23a-4d88-8a23-4fdbcbdc7168
 
 ## 🛠️ Installation [🔝](#-table-of-contents)
 
 Before starting, please ensure that Java and JVM has been installed successfully following the link. The link is for IntelliJ IDE but you can use VS Code as well.
 
 - [IntelliJ  Installation](https://www.jetbrains.com/idea/download/?fromIDE=&section=windows)
-
 
 Clone the project
 
@@ -64,5 +62,3 @@ This README was created using a guides and template. For more information, pleas
  This website has all the badges.
 
  - [Readme Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
-
-
